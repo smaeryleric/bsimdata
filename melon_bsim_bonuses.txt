@@ -1,1 +1,25 @@
-bonus blea
+"0": {
+    "linkType": "youtube",
+    "linkUrl": "https://google.com/",
+    "rewardType": "gem",
+    "rewardCount": "10"
+  },
+  "1": {
+    "linkType": "instagram",
+    "linkUrl": "https://instagram.com/",
+    "rewardType": "coin",
+    "rewardCount": "1500"
+  },
+  "2": {
+    "linkType": "youtube_video",
+    "linkUrl": "https://youtu.be/123123",
+    "rewardType": "gem",
+    "rewardCount": "1500"
+  },
+  "3": {
+    "linkType": "instagram_like",
+    "linkUrl": "https://instagram.com/post/123123",
+    "rewardType": "gem",
+    "rewardCount": "1500"
+  }
+}
