@@ -4,7 +4,7 @@
 # Terms [Bonuses]
 ### `loc` Localisations
 May contain different localisation groups. For instance `kr`, `en` or `ru` for all devices with russian language set by default.
-### `lt` URL Types 
+### `ut` URL Types 
 - `ig-a` Insagram account follow
 - `ig-p-l` Insagram post like
 - `yt-c` Youtube channel subscribe
