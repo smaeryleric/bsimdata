@@ -1,9 +1,11 @@
 # Box Simulator Data
 
-This repository includes datas, which are loaded in the game. 
+> This repository includes datas, which are loaded in the game. 
 
+### `loc` Localisations
+May contain different localisation groups. For instance `kr`, `en` or `ru` for all devices with russian language set by default.
 # Terms [Bonuses]
-### URL Types [lt]
+### `lt` URL Types 
 - `ig-a` Insagram account follow
 - `ig-p-l` Insagram post like
 - `yt-c` Youtube channel subscribe
@@ -11,4 +13,7 @@ This repository includes datas, which are loaded in the game.
 - `tg-c` Telegram channel subscribe
 - `tg-g` Telegram group join
 - `gp` Install a game in Google Play
-### Localisations [loc]
+### `url` URL Link
+### `rt` Reward Type
+Can be only `coins` or `gems` for now.
+### `rc` Reward Count
