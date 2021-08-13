@@ -1,8 +1,1 @@
-"0": {
-    "localisation": "cis",
-    "linkType": "youtube",
-    "linkUrl": "https://google.com/",
-    "rewardType": "gem",
-    "rewardCount": "10"
-  },
-}
+
