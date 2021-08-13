@@ -1,10 +1,9 @@
 # Box Simulator Data
 
 > This repository includes datas, which are loaded in the game. 
-
+# Terms [Bonuses]
 ### `loc` Localisations
 May contain different localisation groups. For instance `kr`, `en` or `ru` for all devices with russian language set by default.
-# Terms [Bonuses]
 ### `lt` URL Types 
 - `ig-a` Insagram account follow
 - `ig-p-l` Insagram post like
