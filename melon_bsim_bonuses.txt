@@ -19,7 +19,7 @@
       "url": "https://youtube.com/",
       "rewardType": "gem",
       "rewardCount": 1000
-    }
+    },
      {
       "localisation": [
         "ru",
@@ -29,6 +29,6 @@
       "url": "https://youtube.com/",
       "rewardType": "gem",
       "rewardCount": 1000
-    },
+    }
   ]
 }
