@@ -5,7 +5,7 @@
         "ru",
         "en"
       ],
-      "linkType": "yt-v",
+      "linkType": "я ебал",
       "url": "https://youtube.com/",
       "rewardType": "gem",
       "rewardCount": 1000
@@ -15,7 +15,7 @@
         "ru",
         "en"
       ],
-      "linkType": "yt-v",
+      "linkType": "пошел нахуй",
       "url": "https://youtube.com/",
       "rewardType": "gem",
       "rewardCount": 1000
@@ -25,7 +25,7 @@
         "ru",
         "en"
       ],
-      "linkType": "yt-v",
+      "linkType": "заебись",
       "url": "https://youtube.com/",
       "rewardType": "gem",
       "rewardCount": 1000
