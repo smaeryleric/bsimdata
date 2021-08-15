@@ -1,11 +1,11 @@
 {
-  "Bonus": [
+  "Bonuses": [
     {
       "loc": [
         "ru",
         "en"
       ],
-      "ut": "yt-c",
+      "ut": "yt-v",
       "url": "https://youtube.com/",
       "rt": "gem",
       "rc": 1000
@@ -17,8 +17,7 @@
       "ut": "yt-v",
       "url": "https://youtube.com/",
       "rt": "coin",
-      "rc": 1000
-    },
-    
+      "rc": 5000
+    }
   ]
 }
