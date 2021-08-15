@@ -1,22 +1,24 @@
-[
-  {
-    "loc": [
-      "ru",
-      "en"
-    ],
-    "ut": "yt-c",
-    "url": "https://youtube.com/",
-    "rt": "gem",
-    "rc": 1000
-  },
-  {
-    "loc": [
-      "ru",
-      "en"
-    ],
-    "ut": "yt-c",
-    "url": "https://youtube.com/",
-    "rt": "gem",
-    "rc": 1000
-  }
-]
+{
+  "Bonus": [
+    {
+      "loc": [
+        "ru",
+        "en"
+      ],
+      "ut": "yt-c",
+      "url": "https://youtube.com/",
+      "rt": "gem",
+      "rc": 1000
+    },
+    {
+      "loc": [
+        "ru"
+      ],
+      "ut": "yt-v",
+      "url": "https://youtube.com/",
+      "rt": "coin",
+      "rc": 1000
+    },
+    
+  ]
+}
