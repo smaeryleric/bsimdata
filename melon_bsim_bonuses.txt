@@ -1,23 +1,34 @@
 {
   "Bonuses": [
     {
-      "loc": [
+      "localisation": [
         "ru",
         "en"
       ],
-      "ut": "yt-v",
+      "linkType": "yt-v",
       "url": "https://youtube.com/",
-      "rt": "gem",
-      "rc": 1000
+      "rewardType": "gem",
+      "rewardCount": 1000
     },
-    {
-      "loc": [
-        "ru"
+     {
+      "localisation": [
+        "ru",
+        "en"
       ],
-      "ut": "yt-v",
+      "linkType": "yt-v",
       "url": "https://youtube.com/",
-      "rt": "coin",
-      "rc": 5000
+      "rewardType": "gem",
+      "rewardCount": 1000
     }
+     {
+      "localisation": [
+        "ru",
+        "en"
+      ],
+      "linkType": "yt-v",
+      "url": "https://youtube.com/",
+      "rewardType": "gem",
+      "rewardCount": 1000
+    },
   ]
 }
