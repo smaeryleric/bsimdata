@@ -18,7 +18,7 @@
       "linkType": "пошел нахуй",
       "url": "https://youtube.com/",
       "rewardType": "gem",
-      "rewardCount": 1000
+      "rewardCount": 3
     },
      {
       "localisation": [
@@ -28,7 +28,7 @@
       "linkType": "заебись",
       "url": "https://youtube.com/",
       "rewardType": "gem",
-      "rewardCount": 1000
+      "rewardCount": 4000
     }
   ]
 }
