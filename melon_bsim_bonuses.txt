@@ -62,5 +62,16 @@
       "rewardType": "coin",
       "rewardCount": 360
     }
+    {
+    "title" : "test",
+      "localisation": [
+        "ru",
+        "en"
+      ],
+      "linkType": "gp",
+      "url": "https://youtube.com/",
+      "rewardType": "gem",
+      "rewardCount": 360
+    }
   ]
 }
