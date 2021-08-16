@@ -2,9 +2,9 @@
 
 > This repository includes datas, which are loaded in the game. 
 # Terms [Bonuses]
-### `loc` Localisations
+### `localisation` Localisations
 May contain different localisation groups. For instance `kr`, `en` or `ru` for all devices with russian language set by default.
-### `ut` URL Types 
+### `linkType` URL Types 
 - `ig-a` Insagram account follow
 - `ig-p-l` Insagram post like
 - `yt-c` Youtube channel subscribe
@@ -13,6 +13,6 @@ May contain different localisation groups. For instance `kr`, `en` or `ru` for a
 - `tg-g` Telegram group join
 - `gp` Install a game in Google Play
 ### `url` URL Link
-### `rt` Reward Type
+### `rewardType` Reward Type
 Can be only `coins` or `gems` for now.
-### `rc` Reward Count
+### `rewardCount` Reward Count
