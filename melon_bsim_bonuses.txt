@@ -46,7 +46,7 @@
         "ru",
         "en"
       ],
-      "linkType": "ig-f",
+      "linkType": "ig-a",
       "url": "https://youtube.com/",
       "rewardType": "coin",
       "rewardCount": 360
@@ -57,7 +57,7 @@
         "ru",
         "en"
       ],
-      "linkType": "ig-f",
+      "linkType": "ig-a",
       "url": "https://youtube.com/",
       "rewardType": "coin",
       "rewardCount": 360
