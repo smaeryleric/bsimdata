@@ -61,7 +61,7 @@
       "url": "https://youtube.com/",
       "rewardType": "coin",
       "rewardCount": 360
-    }
+    },
     {
     "title" : "test",
       "localisation": [
