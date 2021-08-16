@@ -1,34 +1,66 @@
 {
   "Bonuses": [
     {
+    "title" : "doodlestars",
       "localisation": [
-        "ru",
-        "en"
+        "ru"
       ],
-      "linkType": "я ебал",
+      "linkType": "yt-c",
       "url": "https://youtube.com/",
       "rewardType": "gem",
-      "rewardCount": 1000
+      "rewardCount": 10
     },
-     {
+    {
+    "title" : "buzz",
       "localisation": [
-        "ru",
         "en"
       ],
-      "linkType": "пошел нахуй",
+      "linkType": "yt-c",
       "url": "https://youtube.com/",
       "rewardType": "gem",
-      "rewardCount": 3
+      "rewardCount": 10
     },
-     {
+    {
+    "title" : "mearbea",
+      "localisation": [
+        "ru"
+      ],
+      "linkType": "yt-c",
+      "url": "https://youtube.com/",
+      "rewardType": "gem",
+      "rewardCount": 10
+    },
+    {
+    "title" : "griff",
+      "localisation": [
+        "en"
+      ],
+      "linkType": "yt-c",
+      "url": "https://youtube.com/",
+      "rewardType": "gem",
+      "rewardCount": 10
+    },
+    {
+    "title" : "melboxsim",
       "localisation": [
         "ru",
         "en"
       ],
-      "linkType": "заебись",
+      "linkType": "ig-f",
       "url": "https://youtube.com/",
-      "rewardType": "gem",
-      "rewardCount": 4000
+      "rewardType": "coin",
+      "rewardCount": 360
+    },
+    {
+    "title" : "truedev",
+      "localisation": [
+        "ru",
+        "en"
+      ],
+      "linkType": "ig-f",
+      "url": "https://youtube.com/",
+      "rewardType": "coin",
+      "rewardCount": 360
     }
   ]
 }
