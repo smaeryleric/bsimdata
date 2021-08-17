@@ -6,7 +6,7 @@
         "ru"
       ],
       "linkType": "yt-c",
-      "url": "https://youtube.com/",
+      "url": "https://www.youtube.com/channel/UCiHKMGOqYweWB2HPuv4nWTg",
       "rewardType": "gem",
       "rewardCount": 10
     },
@@ -16,7 +16,7 @@
         "en"
       ],
       "linkType": "yt-c",
-      "url": "https://youtube.com/",
+      "url": "https://www.youtube.com/channel/UCcNpnIsyl3te4DABlj2Fzfw",
       "rewardType": "gem",
       "rewardCount": 10
     },
@@ -26,7 +26,7 @@
         "ru"
       ],
       "linkType": "yt-c",
-      "url": "https://youtube.com/",
+      "url": "https://www.youtube.com/channel/UCEv2x-uzrQi-kIKN0Td0xow",
       "rewardType": "gem",
       "rewardCount": 10
     },
@@ -36,7 +36,7 @@
         "en"
       ],
       "linkType": "yt-c",
-      "url": "https://youtube.com/",
+      "url": "https://www.youtube.com/channel/UCAvjn2C75vkqEg5ByzbOWKg",
       "rewardType": "gem",
       "rewardCount": 10
     },
@@ -47,9 +47,9 @@
         "en"
       ],
       "linkType": "ig-a",
-      "url": "https://youtube.com/",
+      "url": "https://www.instagram.com/melonboxsim/",
       "rewardType": "coin",
-      "rewardCount": 360
+      "rewardCount": 300
     },
     {
     "title" : "truedev",
@@ -58,20 +58,9 @@
         "en"
       ],
       "linkType": "ig-a",
-      "url": "https://youtube.com/",
+      "url": "https://instagram.com/true_developers_team",
       "rewardType": "coin",
-      "rewardCount": 360
-    },
-    {
-    "title" : "test",
-      "localisation": [
-        "ru",
-        "en"
-      ],
-      "linkType": "gp",
-      "url": "https://youtube.com/",
-      "rewardType": "gem",
-      "rewardCount": 360
+      "rewardCount": 300
     }
   ]
 }
