@@ -3,6 +3,7 @@
     {
     "title" : "luckybox",
       "localisation": [
+        "ru",
         "en"
       ],
       "linkType": "gp",
