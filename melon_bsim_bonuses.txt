@@ -1,13 +1,13 @@
 {
   "Bonuses": [
     {
-    "title" : "luckybox",
+    "title" : "luckytest",
       "localisation": [
         "ru",
         "en"
       ],
       "linkType": "gp",
-      "url": "https://play.google.com/store/apps/details?id=com.SimAppStudio.LuckyBoxSimulator",
+      "url": "https://play.google.com/store/apps/details?id=com.TestMakersStudio.WhoyouarefromBrawlStars",
       "rewardType": "gem",
       "rewardCount": 100
     },
