@@ -1,5 +1,5 @@
 {
-"Show":"False",
+"Show":"True",
 "Title":"Пошел нахуй!",
 "Discription":"Еблан, сука",
 "ImageUrl":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/a4_ico.png",
