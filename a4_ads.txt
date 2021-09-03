@@ -2,6 +2,6 @@
 "Show":"True",
 "Title":"Title",
 "Discription":"Discription",
-"ImageUrl":"http://img.url/",
-"Url":"http://url.url"
+"ImageUrl":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/a4_ico.png",
+"Url":"https://google.com"
 }
