@@ -10,47 +10,19 @@
       "linkType": "gp",
       "url": "https://play.google.com/store/apps/details?id=com.TestMakersStudio.WhoyouarefromBrawlStars",
       "rewardType": "gem",
-      "rewardCount": 100
-    },
-    {
-    "title" : "doodlestars",
-      "localisation": [
-        "ru"
-      ],
-      "linkType": "yt-c",
-      "url": "https://www.youtube.com/channel/UCiHKMGOqYweWB2HPuv4nWTg",
-      "rewardType": "gem",
-      "rewardCount": 10
+      "rewardCount": 50
     },
     {
     "title" : "buzz",
       "localisation": [
-        "en"
+        "ru",
+        "en",
+        "tr"
       ],
       "linkType": "yt-c",
       "url": "https://www.youtube.com/channel/UCcNpnIsyl3te4DABlj2Fzfw",
       "rewardType": "gem",
-      "rewardCount": 10
-    },
-    {
-    "title" : "mearbea",
-      "localisation": [
-        "ru"
-      ],
-      "linkType": "yt-c",
-      "url": "https://www.youtube.com/channel/UCEv2x-uzrQi-kIKN0Td0xow",
-      "rewardType": "gem",
-      "rewardCount": 10
-    },
-    {
-    "title" : "griff",
-      "localisation": [
-        "en"
-      ],
-      "linkType": "yt-c",
-      "url": "https://www.youtube.com/channel/UCAvjn2C75vkqEg5ByzbOWKg",
-      "rewardType": "gem",
-      "rewardCount": 10
+      "rewardCount": 50
     }
   ]
 }
