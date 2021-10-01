@@ -13,14 +13,14 @@
       "rewardCount": 50
     },
     {
-    "title" : "buzz",
+    "title" : "krilbox",
       "localisation": [
         "ru",
         "en",
         "tr"
       ],
-      "linkType": "yt-c",
-      "url": "https://www.youtube.com/channel/UCcNpnIsyl3te4DABlj2Fzfw",
+      "linkType": "gp",
+      "url": "https://play.google.com/store/apps/details?id=com.simappstudio.BoxSimulator&hl=en",
       "rewardType": "gem",
       "rewardCount": 50
     }
