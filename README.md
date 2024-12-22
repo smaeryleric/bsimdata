@@ -52,16 +52,9 @@
 
 ```json
 {
-  "Title_txt": "Название игры",
-  "Fullscreen_title_txt": "Название игры (полноэкранный режим)",
-  "Icon_img": "https://example.com/icon.png",
-  "Fullscreen_icon_img": "https://example.com/fullscreen-icon.png",
-  "Link_image": "https://example.com/game-link",
-  "Banner": {
-    "Title": "Название баннера",
-    "Description": "Описание баннера"
-  },
-  "Android_url": "https://example.com/android-config.json",
-  "Ios_url": "https://example.com/ios-config.json",
-  "Web_url": "https://example.com/web-config.json"
+   "show": true,
+   "imgurl":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/dopa.png",
+   "url":"https://play.google.com/store/apps/details?id=com.mobicone.a4erase",
+   "title":"",
+   "linkimg":"https://raw.githubusercontent.com/smaeryleric/bsimdata/main/en_badge_web_generic.png" 
 }
